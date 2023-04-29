@@ -16,6 +16,3 @@ O código está misturado entre inglês e português pois fiquei em duvida em qu
 (Criar nome de funções em português é horrivel!) deixarei mais didático logo logo.
 Obrigado por ler até aqui :)
 
-# MEL EU TE AMO
-Eu amo a mel!
-
